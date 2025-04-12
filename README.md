@@ -2,7 +2,8 @@
 ![Image](https://github.com/user-attachments/assets/b9710db4-28ad-49eb-a6db-7c9c40f7d5e3)
 ## **La Liga Top 20 Players Dashboard**
 
-- [View the La Liga Top 20 Players Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMDgyMTUxMmItNjIzNi00ZjJmLThkMDktZTJkOTVjMzIzYzBkIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9])
+- [View the La Liga Top 20 Players Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDgyMTUxMmItNjIzNi00ZjJmLThkMDktZTJkOTVjMzIzYzBkIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9)
+
 ## **Project Overview**
 As a passionate football fan and someone who absolutely loves the sport, I wanted to create a project that merges my love for football with my skills in data engineering and analytics. This project aims to build an **ETL (Extract, Transform, Load)** data pipeline that automates the process of collecting data from a **RESTful API**, processing it with **Python**, storing it in **Microsoft SQL Server**, and visualizing insights using **Power BI**. The goal is to efficiently manage data extraction, transformation, and visualization for decision-making.
 
